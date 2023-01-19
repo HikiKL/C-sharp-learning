@@ -1,0 +1,15 @@
+I:\repositório\Desconto\Desconto\bin\Debug\net6.0\Desconto.exe
+I:\repositório\Desconto\Desconto\bin\Debug\net6.0\Desconto.deps.json
+I:\repositório\Desconto\Desconto\bin\Debug\net6.0\Desconto.runtimeconfig.json
+I:\repositório\Desconto\Desconto\bin\Debug\net6.0\Desconto.dll
+I:\repositório\Desconto\Desconto\bin\Debug\net6.0\Desconto.pdb
+I:\repositório\Desconto\Desconto\obj\Debug\net6.0\Desconto.csproj.AssemblyReference.cache
+I:\repositório\Desconto\Desconto\obj\Debug\net6.0\Desconto.GeneratedMSBuildEditorConfig.editorconfig
+I:\repositório\Desconto\Desconto\obj\Debug\net6.0\Desconto.AssemblyInfoInputs.cache
+I:\repositório\Desconto\Desconto\obj\Debug\net6.0\Desconto.AssemblyInfo.cs
+I:\repositório\Desconto\Desconto\obj\Debug\net6.0\Desconto.csproj.CoreCompileInputs.cache
+I:\repositório\Desconto\Desconto\obj\Debug\net6.0\Desconto.dll
+I:\repositório\Desconto\Desconto\obj\Debug\net6.0\refint\Desconto.dll
+I:\repositório\Desconto\Desconto\obj\Debug\net6.0\Desconto.pdb
+I:\repositório\Desconto\Desconto\obj\Debug\net6.0\Desconto.genruntimeconfig.cache
+I:\repositório\Desconto\Desconto\obj\Debug\net6.0\ref\Desconto.dll
